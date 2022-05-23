@@ -10,13 +10,13 @@ Hi I'm Muraro Leme, Lauro studying aaaalot and searching a opportunity in these 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LmuraroL)
 
 
-- 🔭 I’m currently working on **Eduzz Fullstack Developer #3 DIO**
+- 🔭 I’m currently working on Confitec**
 
-- 🌱 I’m currently learning **Bootstrap, React and Jquery**
+- 🌱 I’m currently learning **Spring and APIrest**
 
 - 👨‍💻 All of my projects are available at [https://lauro-portfolio.herokuapp.com/](https://lauro-portfolio.herokuapp.com/)
 
-- 💬 Ask me about **JavaScript, CSS and HTML**
+- 💬 Ask me about **Java e Spring Boot**
 
 - 📫 How to reach me **lcmule@msn.com**
 
