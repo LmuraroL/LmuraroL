@@ -23,7 +23,7 @@ Hi, I'm Lauro. I work at Confitec and I'm doing an MBA at PUCRS (AI, Data Scienc
 
 **[API do portfólio](https://github.com/LmuraroL/-lauro-api)** — backend em **Spring Boot** (perfil, experiências e console HTTP).
 
-**qualCartao** e **nomadSeller** — aplicativos Android em preparação para o **Google Play**.
+**qualCartao** e **nomadSeller** — produtos Android a caminho do **Google Play**. O código permanece **privado**.
 
 ---
 
