@@ -21,6 +21,8 @@ Hi, I'm Lauro. I work at Confitec and I'm doing an MBA at PUCRS (AI, Data Scienc
 - App: [lmurarol.github.io/faturaclara](https://lmurarol.github.io/faturaclara/)
 - Código: [github.com/LmuraroL/faturaclara](https://github.com/LmuraroL/faturaclara)
 
+**[API do portfólio](https://github.com/LmuraroL/-lauro-api)** — backend em **Spring Boot** (perfil, experiências e console HTTP).
+
 ---
 
 - 🔭 Trabalho na **Confitec**
