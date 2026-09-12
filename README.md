@@ -23,11 +23,13 @@ Hi, I'm Lauro. I work at Confitec and I'm doing an MBA at PUCRS (AI, Data Scienc
 
 **[API do portfólio](https://github.com/LmuraroL/-lauro-api)** — backend em **Spring Boot** (perfil, experiências e console HTTP).
 
+**qualCartao** e **nomadSeller** — aplicativos Android em preparação para o **Google Play**.
+
 ---
 
-- 🔭 Trabalho na **Confitec**
+- 🔭 Trabalho na **Confitec** · apps **qualCartao** e **nomadSeller** (Google Play)
 - 🎓 MBA **PUCRS** — AI, Data Science e Big Data
-- 🌱 Estudando **dados, IA aplicada a negócio** — e, no dia a dia, **Java, Spring Boot, TypeScript e React**
+- 🌱 Estudando **dados, IA aplicada a negócio** — e, no dia a dia, **Java, Spring Boot, TypeScript, React e Android**
 - 💬 Pode me perguntar sobre **Java, Spring Boot** e os projetos da saga
 - 📫 **lcmule@msn.com**
 
