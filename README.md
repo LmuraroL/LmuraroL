@@ -8,7 +8,7 @@
 
 Sou **Lauro Cesar Muraro Leme**, desenvolvedor na **Confitec**. Estudo, construo e compartilho o que aprendo — com o objetivo de crescer intelectualmente e profissionalmente, e de deixar repositórios úteis para quem está começando, como eu um dia comecei.
 
-Hoje meu foco acadêmico é o MBA da **PUCRS** em *Tecnologia para Negócios: AI, Data Science e Big Data*. A cada conhecimento do curso, publico um projeto. O primeiro da saga é o **FaturaClara**.
+Hoje meu foco acadêmico é o MBA da **PUCRS** em *Tecnologia para Negócios: AI, Data Science e Big Data*. A cada conhecimento do curso, publico um projeto. A saga: **FaturaClara** e **Descarta**.
 
 Hi, I'm Lauro. I work at Confitec and I'm doing an MBA at PUCRS (AI, Data Science and Big Data). Here you'll find a bit of my journey — including small, useful apps for beginners like I still am. Let's go.
 
@@ -21,6 +21,11 @@ Hi, I'm Lauro. I work at Confitec and I'm doing an MBA at PUCRS (AI, Data Scienc
 - App: [lmurarol.github.io/faturaclara](https://lmurarol.github.io/faturaclara/)
 - Código: [github.com/LmuraroL/faturaclara](https://github.com/LmuraroL/faturaclara)
 
+**[Descarta](https://lmurarol.github.io/descarta/)** — app acadêmico que lê o PDF da apostila no navegador, reduz infoxicação e entrega flashcards perto do tema da aula. Harness, skills e guardrails; o arquivo não sai do computador.
+
+- App: [lmurarol.github.io/descarta](https://lmurarol.github.io/descarta/)
+- Código: [github.com/LmuraroL/descarta](https://github.com/LmuraroL/descarta)
+
 **[API do portfólio](https://github.com/LmuraroL/-lauro-api)** — backend em **Spring Boot** (perfil, experiências e console HTTP).
 
 **qualCartao** e **nomadSeller** — produtos Android a caminho do **Google Play**. O código permanece **privado**.
@@ -30,7 +35,7 @@ Hi, I'm Lauro. I work at Confitec and I'm doing an MBA at PUCRS (AI, Data Scienc
 - 🔭 Trabalho na **Confitec** · apps **qualCartao** e **nomadSeller** (Google Play)
 - 🎓 MBA **PUCRS** — AI, Data Science e Big Data
 - 🌱 Estudando **dados, IA aplicada a negócio** — e, no dia a dia, **Java, Spring Boot, TypeScript, React e Android**
-- 💬 Pode me perguntar sobre **Java, Spring Boot** e os projetos da saga
+- 💬 Pode me perguntar sobre **Java, Spring Boot** e os projetos da saga (**FaturaClara**, **Descarta**)
 - 📫 **lcmule@msn.com**
 
 <p align="center">
